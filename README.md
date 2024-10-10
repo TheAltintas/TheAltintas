@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Mit navn er ole
+
 <!--
 **TheAltintas/TheAltintas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
